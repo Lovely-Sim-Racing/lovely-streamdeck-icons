@@ -23,158 +23,158 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 # Icon Preview
 
 ## Generic
-<img src="./icons/generic/time.png" width="80" />
-<img src="./icons/generic/back.png" width="80" />
+<img src="./icons-preview/generic/time-preview.png" width="80" />
+<img src="./icons-preview/generic/back-preview.png" width="80" />
 
 ## Streaming
-<img src="./icons/streaming/stream-anim[on].gif" width="80" />
-<img src="./icons/streaming/stream[on].png" width="80" />
-<img src="./icons/streaming/stream[off].png" width="80" />
-<img src="./icons/streaming/record-anim[on].gif" width="80" />
-<img src="./icons/streaming/record[on].png" width="80" />
-<img src="./icons/streaming/record[off].png" width="80" />
+<img src="./icons-preview/streaming/stream-anim[on].gif" width="80" />
+<img src="./icons-preview/streaming/stream[on]-preview.png" width="80" />
+<img src="./icons-preview/streaming/stream[off]-preview.png" width="80" />
+<img src="./icons-preview/streaming/record-anim[on].gif" width="80" />
+<img src="./icons-preview/streaming/record[on]-preview.png" width="80" />
+<img src="./icons-preview/streaming/record[off]-preview.png" width="80" />
 
 ### Scenes
-<img src="./icons/scenes/starting[on].png" width="80" />
-<img src="./icons/scenes/starting[off].png" width="80" />
-<img src="./icons/scenes/ended[on].png" width="80" />
-<img src="./icons/scenes/ended[off].png" width="80" />
-<img src="./icons/scenes/brb[on].png" width="80" />
-<img src="./icons/scenes/brb[off].png" width="80" />
-<img src="./icons/scenes/cockpit[on].png" width="80" />
-<img src="./icons/scenes/cockpit[off].png" width="80" />
-<img src="./icons/scenes/gameplay[on].png" width="80" />
-<img src="./icons/scenes/gameplay[off].png" width="80" />
-<img src="./icons/scenes/pov[on].png" width="80" />
-<img src="./icons/scenes/pov[off].png" width="80" />
-<img src="./icons/scenes/multicam[on].png" width="80" />
-<img src="./icons/scenes/multicam[off].png" width="80" />
-<img src="./icons/scenes/multicam2[on].png" width="80" />
-<img src="./icons/scenes/multicam2[off].png" width="80" />
+<img src="./icons-preview/scenes/starting[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/starting[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/ended[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/ended[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/brb[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/brb[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/cockpit[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/cockpit[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/gameplay[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/gameplay[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/pov[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/pov[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam2[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam2[off]-preview.png" width="80" />
 
 ### Sources
-<img src="./icons/sources/chat[on].png" width="80" />
-<img src="./icons/sources/chat[off].png" width="80" />
-<img src="./icons/sources/facecam[on].png" width="80" />
-<img src="./icons/sources/facecam[off].png" width="80" />
-<img src="./icons/sources/logo[on].png" width="80" />
-<img src="./icons/sources/logo[off].png" width="80" />
-<img src="./icons/sources/overlay[on].png" width="80" />
-<img src="./icons/sources/overlay[off].png" width="80" />
-<img src="./icons/sources/subscribe[on].png" width="80" />
-<img src="./icons/sources/subscribe[off].png" width="80" />
-<img src="./icons/sources/wheelcam[on].png" width="80" />
-<img src="./icons/sources/wheelcam[off].png" width="80" />
+<img src="./icons-preview/sources/chat[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/chat[off]-preview.png" width="80" />
+<img src="./icons-preview/sources/facecam[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/facecam[off]-preview.png" width="80" />
+<img src="./icons-preview/sources/logo[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/logo[off]-preview.png" width="80" />
+<img src="./icons-preview/sources/overlay[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/overlay[off]-preview.png" width="80" />
+<img src="./icons-preview/sources/subscribe[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/subscribe[off]-preview.png" width="80" />
+<img src="./icons-preview/sources/wheelcam[on]-preview.png" width="80" />
+<img src="./icons-preview/sources/wheelcam[off]-preview.png" width="80" />
 
 ## Lights
-<img src="./icons/lights/lights[on].png" width="80" />
-<img src="./icons/lights/lights[off].png" width="80" />
-<img src="./icons/lights/lights.png" width="80" />
-<img src="./icons/lights/general-brightness-up.png" width="80" />
-<img src="./icons/lights/general-brightness-down.png" width="80" />
-<img src="./icons/lights/hue-sync.png" width="80" />
-<img src="./icons/lights/hue-sync[on].png" width="80" />
-<img src="./icons/lights/hue-sync[off].png" width="80" />
-<img src="./icons/lights/scene-streaming.png" width="80" />
-<img src="./icons/lights/scene-driving.png" width="80" />
-<img src="./icons/lights/scene-dark.png" width="80" />
-<img src="./icons/lights/scene-bright.png" width="80" />
+<img src="./icons-preview/lights/lights[on]-preview.png" width="80" />
+<img src="./icons-preview/lights/lights[off]-preview.png" width="80" />
+<img src="./icons-preview/lights/lights-preview.png" width="80" />
+<img src="./icons-preview/lights/general-brightness-up-preview.png" width="80" />
+<img src="./icons-preview/lights/general-brightness-down-preview.png" width="80" />
+<img src="./icons-preview/lights/hue-sync-preview.png" width="80" />
+<img src="./icons-preview/lights/hue-sync[on]-preview.png" width="80" />
+<img src="./icons-preview/lights/hue-sync[off]-preview.png" width="80" />
+<img src="./icons-preview/lights/scene-streaming-preview.png" width="80" />
+<img src="./icons-preview/lights/scene-driving-preview.png" width="80" />
+<img src="./icons-preview/lights/scene-dark-preview.png" width="80" />
+<img src="./icons-preview/lights/scene-bright-preview.png" width="80" />
 
 ## Music
-<img src="./icons/music/music.png" width="80" />
-<img src="./icons/music/music-play.png" width="80" />
-<img src="./icons/music/music-pause.png" width="80" />
-<img src="./icons/music/music-next.png" width="80" />
-<img src="./icons/music/music-prev.png" width="80" />
-<img src="./icons/music/music-volume-up.png" width="80" />
-<img src="./icons/music/music-volume-down.png" width="80" />
-<img src="./icons/music/music-mute.png" width="80" />
-<img src="./icons/music/music-shuffle.png" width="80" />
+<img src="./icons-preview/music/music-preview.png" width="80" />
+<img src="./icons-preview/music/music-play-preview.png" width="80" />
+<img src="./icons-preview/music/music-pause-preview.png" width="80" />
+<img src="./icons-preview/music/music-next-preview.png" width="80" />
+<img src="./icons-preview/music/music-prev-preview.png" width="80" />
+<img src="./icons-preview/music/music-volume-up-preview.png" width="80" />
+<img src="./icons-preview/music/music-volume-down-preview.png" width="80" />
+<img src="./icons-preview/music/music-mute-preview.png" width="80" />
+<img src="./icons-preview/music/music-shuffle-preview.png" width="80" />
 
 ## Messages
-<img src="./icons/messages/messages.png" width="80" />
-<img src="./icons/messages/messages-wtf.png" width="80" />
-<img src="./icons/messages/messages-ty.png" width="80" />
-<img src="./icons/messages/messages-sorry.png" width="80" />
-<img src="./icons/messages/messages-passright.png" width="80" />
-<img src="./icons/messages/messages-passleft.png" width="80" />
-<img src="./icons/messages/messages-ffs.png" width="80" />
+<img src="./icons-preview/messages/messages-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-wtf-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-ty-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-sorry-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-passright-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-passleft-preview.png" width="80" />
+<img src="./icons-preview/messages/messages-ffs-preview.png" width="80" />
 
 ## Vehicle
-<img src="./icons/vehicle/vehicle.png" width="80" />
-<img src="./icons/vehicle/ffb+.png" width="80" />
-<img src="./icons/vehicle/ffb-.png" width="80" />
-<img src="./icons/vehicle/tc-up.png" width="80" />
-<img src="./icons/vehicle/tc-down.png" width="80" />
-<img src="./icons/vehicle/tc-cut-up.png" width="80" />
-<img src="./icons/vehicle/tc-cut-down.png" width="80" />
-<img src="./icons/vehicle/hazard.png" width="80" />
-<img src="./icons/vehicle/turn-left.png" width="80" />
-<img src="./icons/vehicle/turn-right.png" width="80" />
-<img src="./icons/vehicle/spotter-volume-up.png" width="80" />
-<img src="./icons/vehicle/spotter-volume-down.png" width="80" />
-<img src="./icons/vehicle/gameplay-volume-up.png" width="80" />
-<img src="./icons/vehicle/gameplay-volume-down.png" width="80" />
+<img src="./icons-preview/vehicle/vehicle-preview.png" width="80" />
+<img src="./icons-preview/vehicle/ffb+-preview.png" width="80" />
+<img src="./icons-preview/vehicle/ffb--preview.png" width="80" />
+<img src="./icons-preview/vehicle/tc-up-preview.png" width="80" />
+<img src="./icons-preview/vehicle/tc-down-preview.png" width="80" />
+<img src="./icons-preview/vehicle/tc-cut-up-preview.png" width="80" />
+<img src="./icons-preview/vehicle/tc-cut-down-preview.png" width="80" />
+<img src="./icons-preview/vehicle/hazard-preview.png" width="80" />
+<img src="./icons-preview/vehicle/turn-left-preview.png" width="80" />
+<img src="./icons-preview/vehicle/turn-right-preview.png" width="80" />
+<img src="./icons-preview/vehicle/spotter-volume-up-preview.png" width="80" />
+<img src="./icons-preview/vehicle/spotter-volume-down-preview.png" width="80" />
+<img src="./icons-preview/vehicle/gameplay-volume-up-preview.png" width="80" />
+<img src="./icons-preview/vehicle/gameplay-volume-down-preview.png" width="80" />
 
 ## Applications
 
 ### Simulators
-<img src="./icons/apps/apps.png" width="80" />
-<img src="./icons/apps/ac.png" width="80" />
-<img src="./icons/apps/acc.png" width="80" />
-<img src="./icons/apps/iracing.png" width="80" />
-<img src="./icons/apps/automobilista2.png" width="80" />
-<img src="./icons/apps/formula1.png" width="80" />
-<img src="./icons/apps/rFactor2.png" width="80" />
-<img src="./icons/apps/raceroom.png" width="80" />
+<img src="./icons-preview/apps/apps-preview.png" width="80" />
+<img src="./icons-preview/apps/ac-preview.png" width="80" />
+<img src="./icons-preview/apps/acc-preview.png" width="80" />
+<img src="./icons-preview/apps/iracing-preview.png" width="80" />
+<img src="./icons-preview/apps/automobilista2-preview.png" width="80" />
+<img src="./icons-preview/apps/formula1-preview.png" width="80" />
+<img src="./icons-preview/apps/rFactor2-preview.png" width="80" />
+<img src="./icons-preview/apps/raceroom-preview.png" width="80" />
 
 ### Other
-<img src="./icons/apps/obs.png" width="80" />
-<img src="./icons/apps/Crewchief.png" width="80" />
-<img src="./icons/apps/discord.png" width="80" />
-<img src="./icons/apps/music-player.png" width="80" />
-<img src="./icons/apps/chrome.png" width="80" />
-<img src="./icons/apps/philips-hue.png" width="80" />
-<img src="./icons/apps/Racelabs.png" width="80" />
-<img src="./icons/apps/simhub.png" width="80" />
-<img src="./icons/apps/SRWE.png" width="80" />
-<img src="./icons/apps/fanatec.png" width="80" />
-<img src="./icons/apps/heusinkveld.png" width="80" />
-<img src="./icons/apps/simucube.png" width="80" />
-<img src="./icons/apps/thrustmaster.png" width="80" />
+<img src="./icons-preview/apps/obs-preview.png" width="80" />
+<img src="./icons-preview/apps/Crewchief-preview.png" width="80" />
+<img src="./icons-preview/apps/discord-preview.png" width="80" />
+<img src="./icons-preview/apps/music-player-preview.png" width="80" />
+<img src="./icons-preview/apps/chrome-preview.png" width="80" />
+<img src="./icons-preview/apps/philips-hue-preview.png" width="80" />
+<img src="./icons-preview/apps/Racelabs-preview.png" width="80" />
+<img src="./icons-preview/apps/simhub-preview.png" width="80" />
+<img src="./icons-preview/apps/SRWE-preview.png" width="80" />
+<img src="./icons-preview/apps/fanatec-preview.png" width="80" />
+<img src="./icons-preview/apps/heusinkveld-preview.png" width="80" />
+<img src="./icons-preview/apps/simucube-preview.png" width="80" />
+<img src="./icons-preview/apps/thrustmaster-preview.png" width="80" />
 
 ## Settings
 
 ### PC
-<img src="./icons/settings/settings.png" width="80" />
-<img src="./icons/settings/screenshot.png" width="80" />
-<img src="./icons/settings/save-replay.png" width="80" />
-<img src="./icons/settings/system-volume-mute.png" width="80" />
-<img src="./icons/settings/system-volume-up.png" width="80" />
-<img src="./icons/settings/system-volume-down.png" width="80" />
-<img src="./icons/settings/brightness-high.png" width="80" />
-<img src="./icons/settings/brightness-low.png" width="80" />
+<img src="./icons-preview/settings/settings-preview.png" width="80" />
+<img src="./icons-preview/settings/screenshot-preview.png" width="80" />
+<img src="./icons-preview/settings/save-replay-preview.png" width="80" />
+<img src="./icons-preview/settings/system-volume-mute-preview.png" width="80" />
+<img src="./icons-preview/settings/system-volume-up-preview.png" width="80" />
+<img src="./icons-preview/settings/system-volume-down-preview.png" width="80" />
+<img src="./icons-preview/settings/brightness-high-preview.png" width="80" />
+<img src="./icons-preview/settings/brightness-low-preview.png" width="80" />
 
 ### OBS
-<img src="./icons/settings/obs-preview[on].png" width="80" />
-<img src="./icons/settings/obs-preview[off].png" width="80" />
-<img src="./icons/settings/mic[on].png" width="80" />
-<img src="./icons/settings/mic[off].png" width="80" />
-<img src="./icons/settings/volume[on].png" width="80" />
-<img src="./icons/settings/volume[off].png" width="80" />
+<img src="./icons-preview/settings/obs-preview[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/obs-preview[off]-preview.png" width="80" />
+<img src="./icons-preview/settings/mic[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/mic[off]-preview.png" width="80" />
+<img src="./icons-preview/settings/volume[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/volume[off]-preview.png" width="80" />
 
 ### Discord
-<img src="./icons/settings/discord-mic[on].png" width="80" />
-<img src="./icons/settings/discord-mic[off].png" width="80" />
-<img src="./icons/settings/deafen[on].png" width="80" />
-<img src="./icons/settings/deafen[off].png" width="80" />
-<img src="./icons/settings/push-to-talk[on].png" width="80" />
-<img src="./icons/settings/push-to-talk[off].png" width="80" />
+<img src="./icons-preview/settings/discord-mic[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/discord-mic[off]-preview.png" width="80" />
+<img src="./icons-preview/settings/deafen[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/deafen[off]-preview.png" width="80" />
+<img src="./icons-preview/settings/push-to-talk[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/push-to-talk[off]-preview.png" width="80" />
 
 ### Audio
-<img src="./icons/settings/vm-restart.png" width="80" />
-<img src="./icons/settings/mic-monitor[on].png" width="80" />
-<img src="./icons/settings/mic-monitor[off].png" width="80" />
+<img src="./icons-preview/settings/vm-restart-preview.png" width="80" />
+<img src="./icons-preview/settings/mic-monitor[on]-preview.png" width="80" />
+<img src="./icons-preview/settings/mic-monitor[off]-preview.png" width="80" />
 
 
 
