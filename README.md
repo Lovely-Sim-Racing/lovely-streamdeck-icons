@@ -14,11 +14,11 @@ A collection of icons for use with your Elgato Stream Deck.
 
 <br/>
 
-# Usage
+# Download & Usage
 
-[**Download the latest release**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases), unzip the file and use the icons on your stream deck. These icons are focused more on the Sim Racing community needs, but feel free to use them if you find them useful.
+#### You can find and download the high resolution icons in the  :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) section. Unzip the file and use the icons on your Stream Deck. 
 
-The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
+These icons are focused more on the Sim Racing community needs, but feel free to use them if you find them useful. The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
 # Icon Preview
 
