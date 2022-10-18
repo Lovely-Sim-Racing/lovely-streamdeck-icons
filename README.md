@@ -20,6 +20,8 @@ A collection of icons for use with your Elgato Stream Deck.
 
 The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
+# Icon Preview
+
 ## Generic
 <img src="./icons/generic/time.png" width="80" />
 <img src="./icons/generic/back.png" width="80" />
