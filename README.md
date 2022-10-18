@@ -21,10 +21,10 @@ A collection of icons for use with your Elgato Stream Deck.
 The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
 ## Generic
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<span style="background-color:#000; padding:20px; border-radius: 30px; display:block;">
 	<img src="./icons/generic/time.png" style="width:80px;"/>
 	<img src="./icons/generic/back.png" style="width:80px;"/>
-</div> 
+</span> 
 
 ## Streaming
 <div style="background-color:#000; padding:20px; border-radius: 30px;">
