@@ -22,7 +22,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
 ## Generic
 <div style="background-color:#000; padding:20px; border-radius: 30px;">
-	<img src="/icons/generic/time.png" style="width:80px;"/>
+	<img src="./icons/generic/time.png" style="width:80px;"/>
 	<img src="./icons/generic/back.png" style="width:80px;"/>
 </div> 
 
