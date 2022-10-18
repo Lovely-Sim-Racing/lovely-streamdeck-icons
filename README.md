@@ -14,25 +14,29 @@ A collection of icons for use with your Elgato Stream Deck.
 
 ### You may also consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee:
 
+#### Check out my other project: [**Lovely SimHub Dashboard & Overlay**](http://j76.me/LSRDash)
+
+---
+
 <br/>
 
 ![Lovely StreamDeck Icons](./images/lovely-streamdeck-icons.jpg)
 
-# Download & Usage
+## Download & Usage
 
 #### You can find and download the high resolution icons in the  :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) section. Unzip the file and use the icons on your Stream Deck. 
 
 These icons are focused more on the Sim Racing community needs, but feel free to use them wherever you like. The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
-# Icon Preview
+## Icon Preview
 
-## Generic
+### Generic
 <div>
 	<img src="./icons-preview/generic/time-preview.png" width="80" />
 	<img src="./icons-preview/generic/back-preview.png" width="80" />
 </div>
 
-## Streaming
+### Streaming
 <div>
 	<img src="./icons-preview/streaming/stream-anim[on].gif" width="80" />
 	<img src="./icons-preview/streaming/stream[on]-preview.png" width="80" />
@@ -78,7 +82,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/sources/wheelcam[off]-preview.png" width="80" />
 </div>
 
-## Lights
+### Lights
 <div>
 	<img src="./icons-preview/lights/lights[on]-preview.png" width="80" />
 	<img src="./icons-preview/lights/lights[off]-preview.png" width="80" />
@@ -94,7 +98,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/lights/scene-bright-preview.png" width="80" />
 </div>
 
-## Music
+### Music
 <div>
 	<img src="./icons-preview/music/music-preview.png" width="80" />
 	<img src="./icons-preview/music/music-play-preview.png" width="80" />
@@ -107,7 +111,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/music/music-shuffle-preview.png" width="80" />
 </div>
 
-## Messages
+### Messages
 <div>
 	<img src="./icons-preview/messages/messages-preview.png" width="80" />
 	<img src="./icons-preview/messages/messages-wtf-preview.png" width="80" />
@@ -118,7 +122,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/messages/messages-ffs-preview.png" width="80" />
 </div>
 
-## Vehicle
+### Vehicle
 <div>
 	<img src="./icons-preview/vehicle/vehicle-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/ffb+-preview.png" width="80" />
@@ -136,7 +140,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/vehicle/gameplay-volume-down-preview.png" width="80" />
 </div>
 
-## Applications
+### Applications
 
 ### Simulators
 <div>
@@ -167,7 +171,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/apps/thrustmaster-preview.png" width="80" />
 </div>
 
-## Settings
+### Settings
 
 ### PC
 <div>
