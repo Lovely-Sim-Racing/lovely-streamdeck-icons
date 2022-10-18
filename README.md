@@ -23,13 +23,36 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 # Icon Preview
 
 ## Generic
-<img src="./icons-preview/generic/time-preview.png" width="80" /><img src="./icons-preview/generic/back-preview.png" width="80" />
+<div>
+	<img src="./icons-preview/generic/time-preview.png" width="80" />
+	<img src="./icons-preview/generic/back-preview.png" width="80" />
+</div>
 
 ## Streaming
-<img src="./icons-preview/streaming/stream-anim[on].gif" width="80" /><img src="./icons-preview/streaming/stream[on]-preview.png" width="80" /><img src="./icons-preview/streaming/stream[off]-preview.png" width="80" /><img src="./icons-preview/streaming/record-anim[on].gif" width="80" /><img src="./icons-preview/streaming/record[on]-preview.png" width="80" /><img src="./icons-preview/streaming/record[off]-preview.png" width="80" />
+<img src="./icons-preview/streaming/stream-anim[on].gif" width="80" />
+<img src="./icons-preview/streaming/stream[on]-preview.png" width="80" />
+<img src="./icons-preview/streaming/stream[off]-preview.png" width="80" />
+<img src="./icons-preview/streaming/record-anim[on].gif" width="80" />
+<img src="./icons-preview/streaming/record[on]-preview.png" width="80" />
+<img src="./icons-preview/streaming/record[off]-preview.png" width="80" />
 
 ### Scenes
-<img src="./icons-preview/scenes/starting[on]-preview.png" width="80" /><img src="./icons-preview/scenes/starting[off]-preview.png" width="80" /><img src="./icons-preview/scenes/ended[on]-preview.png" width="80" /><img src="./icons-preview/scenes/ended[off]-preview.png" width="80" /><img src="./icons-preview/scenes/brb[on]-preview.png" width="80" /><img src="./icons-preview/scenes/brb[off]-preview.png" width="80" /><img src="./icons-preview/scenes/cockpit[on]-preview.png" width="80" /><img src="./icons-preview/scenes/cockpit[off]-preview.png" width="80" /><img src="./icons-preview/scenes/gameplay[on]-preview.png" width="80" /><img src="./icons-preview/scenes/gameplay[off]-preview.png" width="80" /><img src="./icons-preview/scenes/pov[on]-preview.png" width="80" /><img src="./icons-preview/scenes/pov[off]-preview.png" width="80" /><img src="./icons-preview/scenes/multicam[on]-preview.png" width="80" /><img src="./icons-preview/scenes/multicam[off]-preview.png" width="80" /><img src="./icons-preview/scenes/multicam2[on]-preview.png" width="80" /><img src="./icons-preview/scenes/multicam2[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/starting[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/starting[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/ended[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/ended[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/brb[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/brb[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/cockpit[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/cockpit[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/gameplay[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/gameplay[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/pov[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/pov[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam[off]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam2[on]-preview.png" width="80" />
+<img src="./icons-preview/scenes/multicam2[off]-preview.png" width="80" />
 
 ### Sources
 <img src="./icons-preview/sources/chat[on]-preview.png" width="80" />
