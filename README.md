@@ -22,12 +22,13 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 
 ## Generic
 
-<img src="./icons/generic/time.png" width="80" />
-<img src="./icons/generic/back.png" width="80" />
-
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
+	<img src="./icons/generic/time.png" width="80" />
+	<img src="./icons/generic/back.png" width="80" />
+</div>
 
 ## Streaming
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/streaming/stream-anim[on].gif" width="80" />
 		<img src="./icons/streaming/stream[on].png" width="80" />
@@ -73,7 +74,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ## Scenes
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/scenes/chat[on].png" width="80" />
 		<img src="./icons/scenes/chat[off].png" width="80" />
@@ -101,7 +102,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ## Lights
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/lights/lights[on].png" width="80" />
 	</span>
@@ -127,7 +128,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ## Music
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/music/music.png" width="80" />
 	<img src="./icons/music/music-play.png" width="80" />
 	<img src="./icons/music/music-pause.png" width="80" />
@@ -140,7 +141,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ## Messages
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/messages/messages.png" width="80" />
 	<img src="./icons/messages/messages-wtf.png" width="80" />
 	<img src="./icons/messages/messages-ty.png" width="80" />
@@ -151,7 +152,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ## Vehicle
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/vehicle/vehicle.png" width="80" />
 	<img src="./icons/vehicle/ffb+.png" width="80" />
 	<img src="./icons/vehicle/ffb-.png" width="80" />
@@ -171,7 +172,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 ## Applications
 
 ### Simulators
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/apps/apps.png" width="80" />
 	<img src="./icons/apps/ac.png" width="80" />
 	<img src="./icons/apps/acc.png" width="80" />
@@ -183,7 +184,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ### Other
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/apps/obs.png" width="80" />
 	<img src="./icons/apps/Crewchief.png" width="80" />
 	<img src="./icons/apps/discord.png" width="80" />
@@ -202,7 +203,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 ## Settings
 
 ### PC
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<img src="./icons/settings/settings.png" width="80" />
 	<img src="./icons/settings/screenshot.png" width="80" />
 	<img src="./icons/settings/save-replay.png" width="80" />
@@ -214,7 +215,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div> 
 
 ### OBS
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/settings/obs-preview[on].png" width="80" />
 		<img src="./icons/settings/obs-preview[off].png" width="80" />
@@ -230,7 +231,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div>
 
 ### Discord
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/settings/discord-mic[on].png" width="80" />
 		<img src="./icons/settings/discord-mic[off].png" width="80" />
@@ -246,7 +247,7 @@ The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
 </div>
 
 ### Audio
-<div style="background-color:#000; padding:20px; border-radius: 30px;">
+<div style="background-color:#000; padding:20px; border-radius: 5px;">
 	<span style="white-space:nowrap; margin-right:10px;">
 		<img src="./icons/settings/vm-restart.png" width="80" />
 	</span>
