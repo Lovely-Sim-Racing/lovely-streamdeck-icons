@@ -12,6 +12,8 @@ A collection of icons for use with your Elgato Stream Deck.
 
 ### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see these icons on my Stream Deck.
 
+### You may also consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee:
+
 <br/>
 
 # Download & Usage
