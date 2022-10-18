@@ -16,6 +16,8 @@ A collection of icons for use with your Elgato Stream Deck.
 
 <br/>
 
+![Lovely StreamDeck Icons](./images/lovely-streamdeck-icons.jpg)
+
 # Download & Usage
 
 #### You can find and download the high resolution icons in the  :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) section. Unzip the file and use the icons on your Stream Deck. 
