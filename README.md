@@ -80,6 +80,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/sources/subscribe[off]-preview.png" width="80" />
 	<img src="./icons-preview/sources/wheelcam[on]-preview.png" width="80" />
 	<img src="./icons-preview/sources/wheelcam[off]-preview.png" width="80" />
+	<img src="./icons-preview/sources/pip[on]-preview.png" width="80" />
+	<img src="./icons-preview/sources/pip[off]-preview.png" width="80" />
 </div>
 
 ### Lights
