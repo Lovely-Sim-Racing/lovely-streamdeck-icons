@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Stream Deck Icons</h1>
 
 <p align="center">
-A collection of icons for use with your Elgato Stream Deck.
+A collection of <strong>140 Lovely Icons</strong> for use with your Elgato Stream Deck.
 </p>
 
 <br/>
@@ -38,10 +38,10 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 
 ### Streaming
 <div>
-	<img src="./icons-preview/streaming/stream-anim[on].gif" width="80" />
+	<img src="./icons-preview/streaming/stream-anim[on]-preview.gif" width="80" />
 	<img src="./icons-preview/streaming/stream[on]-preview.png" width="80" />
 	<img src="./icons-preview/streaming/stream[off]-preview.png" width="80" />
-	<img src="./icons-preview/streaming/record-anim[on].gif" width="80" />
+	<img src="./icons-preview/streaming/record-anim[on]-preview.gif" width="80" />
 	<img src="./icons-preview/streaming/record[on]-preview.png" width="80" />
 	<img src="./icons-preview/streaming/record[off]-preview.png" width="80" />
 </div>
@@ -80,6 +80,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/sources/subscribe[off]-preview.png" width="80" />
 	<img src="./icons-preview/sources/wheelcam[on]-preview.png" width="80" />
 	<img src="./icons-preview/sources/wheelcam[off]-preview.png" width="80" />
+	<img src="./icons-preview/sources/pedalcam[on]-preview.png" width="80" />
+	<img src="./icons-preview/sources/pedalcam[off]-preview.png" width="80" />
 	<img src="./icons-preview/sources/pip[on]-preview.png" width="80" />
 	<img src="./icons-preview/sources/pip[off]-preview.png" width="80" />
 </div>
@@ -171,6 +173,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/apps/heusinkveld-preview.png" width="80" />
 	<img src="./icons-preview/apps/simucube-preview.png" width="80" />
 	<img src="./icons-preview/apps/thrustmaster-preview.png" width="80" />
+	<img src="./icons-preview/apps/goxlr-preview.png" width="80" />
 </div>
 
 ### Settings
@@ -212,6 +215,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/settings/vm-restart-preview.png" width="80" />
 	<img src="./icons-preview/settings/mic-monitor[on]-preview.png" width="80" />
 	<img src="./icons-preview/settings/mic-monitor[off]-preview.png" width="80" />
+	<img src="./icons-preview/settings/goxlr[on]-preview.png" width="80" />
+	<img src="./icons-preview/settings/goxlr[off]-preview.png" width="80" />
 </div>
 
 <br/><br/>
