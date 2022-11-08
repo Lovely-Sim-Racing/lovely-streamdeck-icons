@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Stream Deck Icons</h1>
 
 <p align="center">
-A collection of <strong>140 Lovely Icons</strong> for use with your Elgato Stream Deck.
+A collection of <strong>142 Lovely Icons</strong> for use with your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
 </p>
 
 <br/>
@@ -93,6 +93,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/lights/lights-preview.png" width="80" />
 	<img src="./icons-preview/lights/general-brightness-up-preview.png" width="80" />
 	<img src="./icons-preview/lights/general-brightness-down-preview.png" width="80" />
+	<img src="./icons-preview/lights/dash-brightness-high-preview.png" width="80" />
+	<img src="./icons-preview/lights/dash-brightness-low-preview.png" width="80" />
 	<img src="./icons-preview/lights/hue-sync-preview.png" width="80" />
 	<img src="./icons-preview/lights/hue-sync[on]-preview.png" width="80" />
 	<img src="./icons-preview/lights/hue-sync[off]-preview.png" width="80" />
