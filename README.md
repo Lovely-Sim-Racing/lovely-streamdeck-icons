@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Stream Deck Icons</h1>
 
 <p align="center">
-A collection of <strong>142 Lovely Icons</strong> for use with your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
+A collection of <strong>162 Lovely Icons</strong> for use with your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
 </p>
 
 <br/>
@@ -102,6 +102,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/lights/scene-driving-preview.png" width="80" />
 	<img src="./icons-preview/lights/scene-dark-preview.png" width="80" />
 	<img src="./icons-preview/lights/scene-bright-preview.png" width="80" />
+	<img src="./icons-preview/lights/room-preview.png" width="80" />
 </div>
 
 ### Music
@@ -144,6 +145,14 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/vehicle/spotter-volume-down-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/gameplay-volume-up-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/gameplay-volume-down-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-up-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-down-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-left-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-right-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/ok-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/back-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/enter-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/cancel-preview.png" width="80" />
 </div>
 
 ### Applications
@@ -190,6 +199,17 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/settings/system-volume-down-preview.png" width="80" />
 	<img src="./icons-preview/settings/brightness-high-preview.png" width="80" />
 	<img src="./icons-preview/settings/brightness-low-preview.png" width="80" />
+	<img src="./icons-preview/settings/arrow-up-preview.png" width="80" />
+	<img src="./icons-preview/settings/arrow-down-preview.png" width="80" />
+	<img src="./icons-preview/settings/arrow-left-preview.png" width="80" />
+	<img src="./icons-preview/settings/arrow-right-preview.png" width="80" />
+	<img src="./icons-preview/settings/ok-preview.png" width="80" />
+	<img src="./icons-preview/settings/back-preview.png" width="80" />
+	<img src="./icons-preview/settings/enter-preview.png" width="80" />
+	<img src="./icons-preview/settings/cancel-preview.png" width="80" />
+	<img src="./icons-preview/settings/shaker-on-preview.png" width="80" />
+	<img src="./icons-preview/settings/shaker-off-preview.png" width="80" />
+	<img src="./icons-preview/settings/surround-preview.png" width="80" />
 </div>
 
 ### OBS
