@@ -102,7 +102,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/lights/scene-driving-preview.png" width="80" />
 	<img src="./icons-preview/lights/scene-dark-preview.png" width="80" />
 	<img src="./icons-preview/lights/scene-bright-preview.png" width="80" />
-	<img src="./icons-preview/lights/scene-room-preview.png" width="80" />
+	<img src="./icons-preview/lights/room-preview.png" width="80" />
 </div>
 
 ### Music
