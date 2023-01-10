@@ -12,9 +12,11 @@ A collection of <strong>162 Lovely Icons</strong> for use with your <a href="htt
 
 ### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see these icons on my Stream Deck.
 
-### You may also consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee:
+### Please consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee: or snagging some [Lovely Merch](http://j76.me/LSRStore) 
 
-#### Check out my other project: [**Lovely SimHub Dashboard & Overlay**](http://j76.me/LSRDash)
+#### Check out my other projects:
+* [**Lovely SimHub Dashboard & Overlay**](http://j76.me/LSRDash)
+* [**Lovely Sim Racing Liveries**](http://j76.me/LSRLivery)
 
 ---
 
