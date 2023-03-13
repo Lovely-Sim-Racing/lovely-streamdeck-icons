@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Stream Deck Icons</h1>
 
 <p align="center">
-A collection of <strong>162 Lovely Icons</strong> for use with your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
+A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, for use on your <a href="https://www.elgato.com/en/stream-deck" target="_blank">Elgato Stream Deck</a>.
 </p>
 
 <br/>
@@ -145,21 +145,35 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/vehicle/turn-right-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/spotter-volume-up-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/spotter-volume-down-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/crewchief-volume-down-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/crewchief-volume-up-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/gameplay-volume-up-preview.png" width="80" />
 	<img src="./icons-preview/vehicle/gameplay-volume-down-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/arrow-up-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/arrow-down-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/arrow-left-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/arrow-right-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/ok-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/back-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/enter-preview.png" width="80" />
-	<img src="./icons-preview/vehicle/cancel-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-up-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-down-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-left-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/arrow-right-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/ok-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/back-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/enter-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/cancel-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/drs-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/ers-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/enter-2 2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/escape-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/pit-confirm-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/pit-limiter-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/high-beam-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/lights-2-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/rain-light-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/ignition-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/starter-preview.png" width="80" />
+	<img src="./icons-preview/vehicle/wiper-preview.png" width="80" />
 </div>
 
 ### Applications
 
-### Simulators
+#### Simulators
 <div>
 	<img src="./icons-preview/apps/apps-preview.png" width="80" />
 	<img src="./icons-preview/apps/ac-preview.png" width="80" />
@@ -169,9 +183,11 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/apps/formula1-preview.png" width="80" />
 	<img src="./icons-preview/apps/rFactor2-preview.png" width="80" />
 	<img src="./icons-preview/apps/raceroom-preview.png" width="80" />
+	<img src="./icons-preview/apps/rennsport-preview.png" width="80" />
+	<img src="./icons-preview/apps/gran-turismo-preview.png" width="80" />
 </div>
 
-### Other
+#### Other
 <div>
 	<img src="./icons-preview/apps/obs-preview.png" width="80" />
 	<img src="./icons-preview/apps/Crewchief-preview.png" width="80" />
@@ -191,7 +207,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 
 ### Settings
 
-### PC
+#### PC
 <div>
 	<img src="./icons-preview/settings/settings-preview.png" width="80" />
 	<img src="./icons-preview/settings/screenshot-preview.png" width="80" />
@@ -209,9 +225,14 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/settings/back-preview.png" width="80" />
 	<img src="./icons-preview/settings/enter-preview.png" width="80" />
 	<img src="./icons-preview/settings/cancel-preview.png" width="80" />
+	<img src="./icons-preview/settings/escape-preview.png" width="80" />
 	<img src="./icons-preview/settings/shaker-on-preview.png" width="80" />
 	<img src="./icons-preview/settings/shaker-off-preview.png" width="80" />
 	<img src="./icons-preview/settings/surround-preview.png" width="80" />
+	<img src="./icons-preview/settings/dash-left-mfm-preview.png" width="80" />
+	<img src="./icons-preview/settings/dash-right-mfm-preview.png" width="80" />
+	<img src="./icons-preview/settings/dash-prev-preview.png" width="80" />
+	<img src="./icons-preview/settings/dash-next-preview.png" width="80" />
 </div>
 
 ### OBS
