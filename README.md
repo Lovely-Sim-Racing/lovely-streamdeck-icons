@@ -12,7 +12,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see these icons on my Stream Deck.
 
-### Please consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee: or snagging some [Lovely Merch](http://j76.me/LSRStore) 
+### Please consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee: or snagging some [Lovely Merch](http://j76.me/LSRStore)
 
 #### Check out my other projects:
 * [**Lovely SimHub Dashboard & Overlay**](http://j76.me/LSRDash)
@@ -24,7 +24,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ![Lovely StreamDeck Icons](./images/lovely-streamdeck-icons.jpg)
 
-## Download & Usage
+## Download & Usage 
 
 #### You can find and download the high resolution icons in the  :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) section. Unzip the file and use the icons on your Stream Deck. 
 
@@ -40,10 +40,10 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 
 ### Streaming
 <div>
-	<img src="./icons-preview/streaming/stream-anim[on]-preview.gif" width="80" />
+	<img src="./icons-preview/streaming/stream[on].gif" width="80" />
 	<img src="./icons-preview/streaming/stream[on]-preview.png" width="80" />
 	<img src="./icons-preview/streaming/stream[off]-preview.png" width="80" />
-	<img src="./icons-preview/streaming/record-anim[on]-preview.gif" width="80" />
+	<img src="./icons-preview/streaming/record[on].gif" width="80" />
 	<img src="./icons-preview/streaming/record[on]-preview.png" width="80" />
 	<img src="./icons-preview/streaming/record[off]-preview.png" width="80" />
 </div>
@@ -66,6 +66,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/scenes/multicam[off]-preview.png" width="80" />
 	<img src="./icons-preview/scenes/multicam2[on]-preview.png" width="80" />
 	<img src="./icons-preview/scenes/multicam2[off]-preview.png" width="80" />
+	<img src="./icons-preview/scenes/supporters[on]-preview.png" width="80" />
+	<img src="./icons-preview/scenes/supporters[off]-preview.png" width="80" />
 </div>
 
 ### Sources
@@ -222,7 +224,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/settings/arrow-left-preview.png" width="80" />
 	<img src="./icons-preview/settings/arrow-right-preview.png" width="80" />
 	<img src="./icons-preview/settings/ok-preview.png" width="80" />
-	<img src="./icons-preview/settings/back-preview.png" width="80" />
+	<img src="./icons-preview/settings/back-3-preview.png" width="80" />
 	<img src="./icons-preview/settings/enter-preview.png" width="80" />
 	<img src="./icons-preview/settings/cancel-preview.png" width="80" />
 	<img src="./icons-preview/settings/escape-preview.png" width="80" />
@@ -233,6 +235,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 	<img src="./icons-preview/settings/dash-right-mfm-preview.png" width="80" />
 	<img src="./icons-preview/settings/dash-prev-preview.png" width="80" />
 	<img src="./icons-preview/settings/dash-next-preview.png" width="80" />
+	<img src="./icons-preview/settings/tyre-reset-preview.png" width="80" />
 </div>
 
 ### OBS
