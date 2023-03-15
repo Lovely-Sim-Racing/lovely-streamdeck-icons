@@ -26,9 +26,13 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ## Download & Usage 
 
-#### You can find and download the high resolution icons in the  :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) section. Unzip the file and use the icons on your Stream Deck. 
+###Stream Deck Icon Pack
+The easiest, fastest and most convenient way is to download the StreamDeck Icon Pack. Just download the `.streamDeckIconPack` file from the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) and double click on it to install. The Lovely Stream Deck Icons will be in your Stream Deck app, ready to be used.
 
-These icons are focused more on the Sim Racing community needs, but feel free to use them wherever you like. The icons are subject to the [CC-BY-NC-SA license](#disclaimer).
+### Standalone Icons
+Alternatively, you can find and download the high resolution icons in the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases). Unzip the file and use the icons on your Stream Deck. 
+
+These icons are focused more on the Sim Racing community needs, but feel free to use them wherever you like. The icons are subject to the [CC-BY-NC-SA](#disclaimer) License.
 
 ## Icon Preview
 
