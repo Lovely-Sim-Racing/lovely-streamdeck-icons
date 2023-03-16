@@ -26,7 +26,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ## Download & Usage 
 
-###Stream Deck Icon Pack
+### Stream Deck Icon Pack
 The easiest, fastest and most convenient way is to download the StreamDeck Icon Pack. Just download the `.streamDeckIconPack` file from the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) and double click on it to install. The Lovely Stream Deck Icons will be in your Stream Deck app, ready to be used.
 
 ### Standalone Icons
