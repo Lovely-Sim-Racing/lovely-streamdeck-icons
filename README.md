@@ -10,13 +10,13 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 <br/>
 
-### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see these icons on my Stream Deck.
+### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](https://j76.me/LSR), where I stream as often as I can. You'll even see these icons on my Stream Deck.
 
-### Please consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee: or snagging some [Lovely Merch](http://j76.me/LSRStore)
+### Please consider to [Buy me a Coffee](https://j76.me/BuyMeCoffee) :coffee: or snag some [Lovely Merch](https://j76.me/LSRStore)
 
 #### Check out my other projects:
-* [**Lovely SimHub Dashboard & Overlay**](http://j76.me/LSRDash)
-* [**Lovely Sim Racing Liveries**](http://j76.me/LSRLivery)
+* [**Lovely SimHub Dashboard & Overlay**](https://j76.me/LSRDash)
+* [**Lovely Sim Racing Liveries**](https://j76.me/LSRLivery)
 
 ---
 
