@@ -29,7 +29,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 ### Elgato Stream Deck Store
 In your **Stream Deck App**, visit the **Store** and search for `Lovely Sim Racing Icons`. You can install the **Icon Pack** directly within the app, and also receive future updates.
 
-[Stream Deck Store](https://apps.elgato.com/icons/com.lovelysimracing.iconpack)
+[![Elgato Stream Deck Store](./images/elgato-store-button.png)](https://apps.elgato.com/icons/com.lovelysimracing.iconpack)
 
 ### Standalone Icons
 Alternatively, you can find and download the high resolution icons (.png) in the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases). Unzip the file and use the icons on your Stream Deck. 
