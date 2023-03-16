@@ -24,15 +24,15 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ![Lovely StreamDeck Icons](./images/lovely-streamdeck-icons.jpg)
 
-## Download & Usage 
+## Download 
 
-###Stream Deck Icon Pack
-The easiest, fastest and most convenient way is to download the StreamDeck Icon Pack. Just download the `.streamDeckIconPack` file from the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases) and double click on it to install. The Lovely Stream Deck Icons will be in your Stream Deck app, ready to be used.
+### Elgato Stream Deck Store
+In your **Stream Deck App**, visit the **Store** and search for `Lovely Sim Racing Icons`. You can install the **Icon Pack** directly within the app, and also receive future updates.
+
+[Stream Deck Store](https://apps.elgato.com/icons/com.lovelysimracing.iconpack)
 
 ### Standalone Icons
-Alternatively, you can find and download the high resolution icons in the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases). Unzip the file and use the icons on your Stream Deck. 
-
-These icons are focused more on the Sim Racing community needs, but feel free to use them wherever you like. The icons are subject to the [CC-BY-NC-SA](#disclaimer) License.
+Alternatively, you can find and download the high resolution icons (.png) in the :open_file_folder: [**Latest Releases**](https://github.com/cdemetriadis/lovely-streamdeck-icons/releases). Unzip the file and use the icons on your Stream Deck. 
 
 ## Icon Preview
 
@@ -256,8 +256,8 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 <div>
 	<img src="./icons-preview/settings/discord-mic[on]-preview.png" width="80" />
 	<img src="./icons-preview/settings/discord-mic[off]-preview.png" width="80" />
-	<img src="./icons-preview/settings/deafen[on]-preview.png" width="80" />
 	<img src="./icons-preview/settings/deafen[off]-preview.png" width="80" />
+	<img src="./icons-preview/settings/deafen[on]-preview.png" width="80" />
 	<img src="./icons-preview/settings/push-to-talk[on]-preview.png" width="80" />
 	<img src="./icons-preview/settings/push-to-talk[off]-preview.png" width="80" />
 </div>
@@ -277,11 +277,7 @@ These icons are focused more on the Sim Racing community needs, but feel free to
 
 <br/><br/>
 
-### Disclaimer
-
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this application are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
-
-<br/>
 
 ![cc-by-nc-sa](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
 
