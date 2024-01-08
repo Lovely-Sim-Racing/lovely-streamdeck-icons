@@ -10,7 +10,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 <br/>
 
-<h3 align="center">304 NEW & UPDATED ICONS in v1.6.0</h3>
+<h3 align="center"><a href="https://github.com/cdemetriadis/lovely-streamdeck-icons/releases">304 NEW & UPDATED ICONS in v1.6.0</a></h3>
 
 <br/>
 
