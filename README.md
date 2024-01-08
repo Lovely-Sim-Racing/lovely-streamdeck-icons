@@ -10,6 +10,10 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 <br/>
 
+<h3 align="center">304 NEW & UPDATED ICONS in v1.6.0</h3>
+
+<br/>
+
 ### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](https://lsr.gg/youtube), where I stream as often as I can. You'll even see these icons on my Stream Deck.
 
 ### Please consider to [Buy me a Coffee](https://lsr.gg/support) :coffee: or snag some [Lovely Merch](https://lsr.gg/store)
