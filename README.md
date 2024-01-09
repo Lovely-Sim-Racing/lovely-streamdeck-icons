@@ -10,7 +10,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 <br/>
 
-<h3 align="center"><a href="https://github.com/cdemetriadis/lovely-streamdeck-icons/releases">304 NEW & UPDATED ICONS in v1.6.0</a></h3>
+<h3 align="center"><a href="https://github.com/cdemetriadis/lovely-streamdeck-icons/releases">305 NEW & UPDATED ICONS in v1.6.1</a></h3>
 
 <br/>
 
@@ -350,6 +350,7 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
   <img src="./icons-preview/lights-office.png" width="80" />
   <img src="./icons-preview/lights-staircase.png" width="80" />
   <img src="./icons-preview/lights-room.png" width="80" />
+  <img src="./icons-preview/lights-day-night.png" width="80" />
   <img src="./icons-preview/lights-general-brightness-down.png" width="80" />
   <img src="./icons-preview/lights-general-brightness-up.png" width="80" />
   <img src="./icons-preview/lights-dash-brightness-high.png" width="80" />
