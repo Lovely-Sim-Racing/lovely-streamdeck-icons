@@ -27,7 +27,7 @@ A collection of Lovely Icons specifically designed for Sim Racing enthusiasts, f
 
 ![Lovely StreamDeck Icons](./images/lovely-streamdeck-icons.jpg)
 
-## Download 
+## Download
 
 ### Elgato Stream Deck Store
 In your **Stream Deck App**, visit the **Store** and search for `Lovely Sim Racing Icons`. You can install the **Icon Pack** directly within the app, and also receive future updates.
@@ -56,6 +56,7 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
   <img src="./icons-preview/apps-blank.png" width="80" />
   <img src="./icons-preview/apps-ac.png" width="80" />
   <img src="./icons-preview/apps-acc.png" width="80" />
+  <img src="./icons-preview/apps-asetek.png" width="80" />
   <img src="./icons-preview/apps-automobilista2.png" width="80" />
   <img src="./icons-preview/apps-chrome.png" width="80" />
   <img src="./icons-preview/apps-crewchief.png" width="80" />
@@ -74,7 +75,9 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
   <img src="./icons-preview/apps-gsi.png" width="80" />
   <img src="./icons-preview/apps-heusinkveld.png" width="80" />
   <img src="./icons-preview/apps-icue.png" width="80" />
+  <img src="./icons-preview/apps-ioverlay.png" width="80" />
   <img src="./icons-preview/apps-iracing.png" width="80" />
+  <img src="./icons-preview/apps-lmu.png" width="80" />
   <img src="./icons-preview/apps-moza.png" width="80" />
   <img src="./icons-preview/apps-music-player.png" width="80" />
   <img src="./icons-preview/apps-obs.png" width="80" />
@@ -223,6 +226,10 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
   <img src="./icons-preview/vehicle-seat-back.png" width="80" />
   <img src="./icons-preview/vehicle-seat-down.png" width="80" />
   <img src="./icons-preview/vehicle-seat-forward.png" width="80" />
+  <img src="./icons-preview/vehicle-seat-fov-down.png" width="80" />
+  <img src="./icons-preview/vehicle-seat-fov-up.png" width="80" />
+  <img src="./icons-preview/vehicle-seat-horizon-down.png" width="80" />
+  <img src="./icons-preview/vehicle-seat-horizon-up.png" width="80" />
   <img src="./icons-preview/vehicle-seat-left.png" width="80" />
   <img src="./icons-preview/vehicle-seat-right.png" width="80" />
   <img src="./icons-preview/vehicle-seat-up.png" width="80" />
@@ -323,6 +330,7 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
   <img src="./icons-preview/settings-haptics[on].png" width="80" />
   <img src="./icons-preview/settings-shaker[off].png" width="80" />
   <img src="./icons-preview/settings-shaker[on].png" width="80" />
+  <img src="./icons-preview/settings-reload-generic.png" width="80" />
   <img src="./icons-preview/settings-restart.png" width="80" />
   <img src="./icons-preview/settings-power.png" width="80" />
   <img src="./icons-preview/settings-tyre-reset.png" width="80" />
