@@ -177,7 +177,7 @@ Alternatively, you can find and download the high resolution icons (.png & .svg)
 
 ### Vehicle
 <div>
-  <img src="./icons-preview/vehicle-vehicle.png" width="80" />
+  <img src="./icons-preview/vehicle-vehicle[off].png" width="80" />
   <img src="./icons-preview/vehicle-vehicle[on].png" width="80" />
   <img src="./icons-preview/vehicle-blank[off].png" width="80" />
   <img src="./icons-preview/vehicle-blank[on].png" width="80" />
